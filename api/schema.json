@@ -1,0 +1,14 @@
+{
+    "Country_2_char_iso": {
+        "holiday_name": "Example Holiday",
+        "holiday_description": "This is an example holiday description.",
+        "date_of_founding": "dd-mm-yyyy"
+    },
+    "International": {
+        "holiday_name": "Example International Holiday",
+        "holiday_description": "This is an example international holiday description.",
+        "date_of_founding": "dd-mm-yyyy",
+        "founding_ country": "Country_2_char_iso",
+        "countries_observing": ["Country_1", "Country_2", "Country_3"]
+    }
+}
