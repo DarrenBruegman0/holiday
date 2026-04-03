@@ -1,0 +1,10 @@
+{
+    "US": {
+        "name": "Veterans Day",
+        "description": "Veterans Day is a federal holiday in the United States observed annually on November 11, honoring military veterans who have served in the United States Armed Forces."
+    },
+    "International": {
+        "name": "Armistice Day",
+        "description": "Armistice Day is commemorated on November 11 to mark the armistice signed between the Allies and Germany in 1918, which ended the hostilities on the Western Front of World War I. It is observed in many countries around the world to honor the sacrifices of those who served in the war."
+    }
+}
